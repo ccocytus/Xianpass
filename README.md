@@ -47,7 +47,8 @@ Here are some screenshots of the website:
 
 ![welcome page](https://github.com/user-attachments/assets/5753125a-07d9-4090-a20d-08cea81fba2a)
 
-2. **Password Generator**
+2. **Password Generator Page**
+
 ![password generator](https://github.com/user-attachments/assets/29d733e4-d2b8-4357-9a54-d58b12e2e86e)
 
 
